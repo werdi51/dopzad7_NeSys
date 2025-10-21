@@ -1,3 +1,0 @@
-﻿  dopZad.cpp
-C:\Users\st310-03\Desktop\Hvorenkov_pr33_sys\dopZad\dopZad.cpp(23,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  dopZad.vcxproj -> C:\Users\st310-03\Desktop\Hvorenkov_pr33_sys\dopZad\x64\Debug\dopZad.exe
