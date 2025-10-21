@@ -1,0 +1,3 @@
+﻿  dopZad.cpp
+C:\Users\anton\OneDrive\Desktop\dopzad7_NeSys-main\dopZad\dopZad.cpp(57,9): warning C4101: correct_password: неиспользованная локальная переменная
+  dopZad.vcxproj -> C:\Users\anton\OneDrive\Desktop\dopzad7_NeSys-main\dopZad\x64\Debug\dopZad.exe
